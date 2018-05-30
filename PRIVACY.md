@@ -1,8 +1,8 @@
 # Native Dark Privacy Policy
 
-**Some basic user data may be collected *strictly for analytical* and statictical purposes.**
+**Some basic user data may be collected *strictly for analytical* and statistical purposes.**
 
-All of the foollowing information soeficied below is to be collected for the Author(s) use alone, and will not be public unless specified.
+All of the following information speficied below is to be collected for the Author(s) use alone, and will not be public unless specified.
 
  1. User email address
     * Only collected if the user is signed tnto the browser
@@ -10,7 +10,7 @@ All of the foollowing information soeficied below is to be collected for the Aut
  2. Time and date of installation
  3. Basic debug logs
     * Every error that occurs within the content scripts
-    * Every change in settings and the time of occurance
+    * Every change in settings and the time of occurence
     
 The number of data entries, number of downloads, and number of active users is **public information** if the Author(s) so chooses.
 
