@@ -4,8 +4,8 @@
 
 All of the following information speficied below is to be collected for the Author(s) use alone, and will not be public unless specified.
 
- 1. User email address
-    * Only collected if the user is signed tnto the browser
+ 1. User email address (opt-in)
+    * Collected if the user would like to be contacted by the Author(s)
     * Used to contact the user in case of an error to gather information on a bug report
  2. Time and date of installation
  3. Basic debug logs
